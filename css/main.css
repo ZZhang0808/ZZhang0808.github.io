@@ -179,6 +179,10 @@ p {
     padding: 0px;
 }
 
+.navbar-brand > img {
+    width: 100px;
+}
+
 .navbar {
   margin-bottom: 0px;
 }
